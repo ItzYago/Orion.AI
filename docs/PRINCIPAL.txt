@@ -1,0 +1,61 @@
+                    ORION - AVISO LEGAL E DIRETRIZES DE USO
+
+    A Orion é um projeto de inteligência artificial desenvolvido para fins educacionais,
+            de pesquisa, aprendizado, automação e assistência ao usuário.
+
+    Ao utilizar este software, o usuário concorda com as seguintes condições:
+
+1. PROPRIEDADE DO PROJETO
+
+        A Orion é propriedade de seu(s) desenvolvedor(es) e mantenedor(es). A utilização do software
+            não concede ao usuário qualquer direito de propriedade sobre o projeto,
+                seu código-fonte, sua identidade visual ou sua documentação.
+
+2. USO RESPONSÁVEL
+
+        O usuário é responsável por todas as ações realizadas através da Orion.
+         Os desenvolvedores não se responsabilizam por danos causados pelo uso inadequado,
+          incorreto ou malicioso do software.
+
+3. USO INDEVIDO
+
+        É proibido utilizar a Orion para:
+
+    * Praticar atividades ilegais.
+        * Causar danos a terceiros.
+            * Violar privacidade, segurança ou propriedade intelectual de outras pessoas.
+                * Distribuir conteúdo malicioso.
+                    * Realizar ações que violem leis locais, nacionais ou internacionais.
+
+4. LIMITAÇÃO DE RESPONSABILIDADE
+
+                A Orion é fornecida "como está", sem garantias de qualquer tipo.
+             Os desenvolvedores não garantem que o sistema esteja livre de erros,
+                                falhas ou interrupções.
+
+5. INFORMAÇÕES GERADAS
+
+            As respostas geradas pela Orion podem conter erros, 
+                imprecisões ou interpretações incorretas. 
+        O usuário deve sempre verificar informações importantes 
+        antes de tomar decisões baseadas nas respostas fornecidas.
+
+6. CONTRIBUIÇÕES E MODIFICAÇÕES
+
+            Caso o projeto seja disponibilizado publicamente, 
+    contribuições poderão ser aceitas de acordo com as regras definidas pelos mantenedores. 
+            Modificações não autorizadas não representam a versão oficial da Orion.
+
+7. IDENTIDADE DO PROJETO
+
+    O nome "Orion" e sua identidade associada não podem ser utilizados para representar
+        projetos derivados como sendo a versão oficial sem autorização dos mantenedores.
+
+8. FINALIDADE
+
+    A Orion foi criada para auxiliar usuários na organização de conhecimento, aprendizado,
+        análise de informações e automação de tarefas, 
+            sempre respeitando princípios éticos, legais e técnicos.
+
+
+Ao utilizar este software, você reconhece que leu, compreendeu e concorda com os termos descritos neste documento.
