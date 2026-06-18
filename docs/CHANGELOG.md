@@ -26,7 +26,7 @@ Estabelecer a fundação da Orion e preparar o ambiente para o desenvolvimento d
 
 ## [v0.1.1] - Terminal Base
 
-### Planejado
+### Adicionado
 
 * Interface via terminal.
 * Comando de ajuda.
