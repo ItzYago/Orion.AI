@@ -1,1 +1,2 @@
 #bibliotecas necessárias para rodar a A.I.
+rich
