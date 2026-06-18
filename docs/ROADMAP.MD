@@ -15,10 +15,10 @@ O roadmap da Orion define as funcionalidades planejadas e os objetivos de desenv
 
 ### v0.1.1
 
-* [ ] Interface básica via terminal
-* [ ] Sistema de entrada e saída
-* [ ] Comando de ajuda (`help`)
-* [ ] Comando de encerramento (`exit`)
+* [x] Interface básica via terminal
+* [x] Sistema de entrada e saída
+* [x] Comando de ajuda (`help`)
+* [x] Comando de encerramento (`exit`)
 
 ### v0.1.2
 
