@@ -22,10 +22,10 @@ O roadmap da Orion define as funcionalidades planejadas e os objetivos de desenv
 
 ### v0.1.2
 
-* [ ] Sistema de comandos
-* [ ] Parser de argumentos
-* [ ] Tratamento de erros
-* [ ] Organização dos módulos internos
+* [x] Sistema de comandos
+* [x] Parser de argumentos
+* [x] Tratamento de erros
+* [x] Organização dos módulos internos
 
 ---
 

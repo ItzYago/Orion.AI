@@ -7,10 +7,10 @@
  RODAR A A.I. E SE ALGUM CÓDIGO FOR APAGADO, A A.I. PODE PARAR DE FUNCIONAR CORRETAMENTE.
 """
 
-import os
-from core.cli import saudacao, Orion
-
+from cli import Orion
+from cli import saudacao
 
 saudacao()
+
 orion = Orion()
 orion.run()

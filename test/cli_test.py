@@ -2,7 +2,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.align import Align
 
-from translate_cli import Translate
+from translate_test import Translate
 
 console = Console()
 
